@@ -2,7 +2,7 @@
 
 This project is our implementation of Semantic-Aware Knowledge prEservation (SAKE) for zero-shot sketch-based image retrieval.
 More detailed descriptions and experimental results could be found in the [paper](https://arxiv.org/abs/1904.03208#).
-![framework](utils/images/fig2.pdf)
+![framework](utils/images/fig2.png)
 
 If you find this project helpful, please consider citing our paper.
 ```

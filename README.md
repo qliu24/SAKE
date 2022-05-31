@@ -1,16 +1,17 @@
 # Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval
 
 This project is our implementation of Semantic-Aware Knowledge prEservation (SAKE) for zero-shot sketch-based image retrieval.
-More detailed descriptions and experimental results could be found in the [paper](https://arxiv.org/abs/1904.03208#).
+More detailed descriptions and experimental results could be found in the [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Semantic-Aware_Knowledge_Preservation_for_Zero-Shot_Sketch-Based_Image_Retrieval_ICCV_2019_paper.pdf).
 ![framework](utils/images/fig2.png)
 
 If you find this project helpful, please consider citing our paper.
 ```
-@article{liu2019semantic,
-  author    = {Liu, Qing and Xie, Lingxi and Wang, Huiyu and Yuille, Alan},
-  title     = {Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval},
-  journal   = {arXiv preprint arXiv:1904.03208},
-  year      = {2019},
+@inproceedings{liu2019semantic,
+  title={Semantic-aware knowledge preservation for zero-shot sketch-based image retrieval},
+  author={Liu, Qing and Xie, Lingxi and Wang, Huiyu and Yuille, Alan L},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3662--3671},
+  year={2019}
 }
 ```
 ## Dataset
